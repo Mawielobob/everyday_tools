@@ -3,13 +3,13 @@ My everyday tools scripts
 
 ## imageresize_and_save.py
 
-  Info: 
+  **Info**: 
   
   sript open all images from input directory path resize it (by ratio) and save in outpath directory
   
   this script help me while archiving dozens of image data or (imge) model results. 
 
-  Usage (python3):
+  **Usage** (python3):
   
   python imageresize_and_save.py -i input_dir_path -o output_dir_path
   * for default image ratio 0.25 = images 4 times smaller
