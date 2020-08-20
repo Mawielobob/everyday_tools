@@ -19,4 +19,10 @@ My everyday tools scripts
   python imageresize_and_save.py -i input_dir_path -o output_dir_path -s 0.5
   * for image 2 times smaller (choose ratio between 0.01 and 0.99)
   
+  **Loguru library** info:
+  
+  to install loguru (the simplest ever library for logging!!):
+  * pip install loguru
+  
+  or just replace all logger.info() in code by print() - it will work well.
   
